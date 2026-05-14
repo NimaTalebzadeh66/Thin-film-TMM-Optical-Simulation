@@ -1,4 +1,4 @@
-# Thin-Film TMM Photonics
+# Thin-Film TMM Optical Simulation
 
 MATLAB-based Transfer Matrix Method (TMM) simulations for thin-film spectrally selective absorber/emitter structures.
 
