@@ -20,7 +20,7 @@ MATLAB-based Transfer Matrix Method (TMM) simulations for thin-film spectrally s
 
 ## Example Result
 
-![Emissivity Spectrum](figures/emissivity_spectrum.png)
+![Emissivity Spectrum](figures/Table_Absorptance_substrate_coating.png)
 
 ## Project Structure
 
