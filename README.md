@@ -5,10 +5,10 @@ MATLAB-based Transfer Matrix Method (TMM) simulations for thin-film spectrally s
 ## Applications
 
 - Thermophotovoltaics (TPV)
-- Thin-film optical coatings
+- Optical filters
 - Spectral emissivity engineering
 - Optical absorber/emitter design
-- Multilayer photonic structures
+- Spectrum splitting 
 
 ## Features
 
