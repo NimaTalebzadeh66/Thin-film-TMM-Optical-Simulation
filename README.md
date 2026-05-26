@@ -19,7 +19,7 @@ MATLAB-based Transfer Matrix Method (TMM) simulations for thin-film spectrally s
 - MATLAB-based numerical modeling
 
 ## Example Result
-The foolowing figure shows the maximum absorptance for the optimized coating thicknesses.
+The foolowing Figure shows the maximum absorptance for the optimized coating thicknesses.
 ![Emissivity Spectrum](figures/Table_Absorptance_substrate_coating.png)
 
 ## Project Structure
